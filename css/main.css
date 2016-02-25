@@ -1,0 +1,204 @@
+ /*css de MISHEL*/
+*{
+	font-family: "open sans"
+	}
+.menu_nav ul{                     /*caracterristicas de menu*/
+	list-style: none;
+	padding-top: 34px;
+	margin: 0 -15px 0 0;
+	font-size: 14px;
+	line-height: 14px;
+	text-transform: uppercase;
+	white-space: nowrap;
+	text-decoration: none;
+	text-align: right;
+}
+.menu_nav li{
+	text-decoration: none;
+	display: inline-block;
+	padding: 5px;
+}
+.menu_nav a{
+	text-decoration: none;
+	padding: 5px;
+	color: white;
+}
+
+/* color_letras_Menu*/
+.color-letras{
+	color: #0dc0c0;
+}
+.opacidad{
+	background: rgba(0,0,0,0.5);
+	width: 100%;
+	height: 500px;
+}
+header{
+	background: url("../img/background/hero.jpg");
+	background-position: center center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	width: 100%;
+	height: 500px;
+
+}
+.tamano-img-head{
+	font-size: 20px;
+}
+#tamano-titulo-hea{
+	font-size: 40px;
+}
+.tamano-p-head{
+	font-size: 20px;
+	padding-left: 10px;
+}
+#primes{
+	font-family: "open sans";
+}
+/* btn-uno-header*/
+.btn-our{
+	height: 50px;
+	width: 180px;
+	margin-left: 60%;
+	background: rgba(0,0,0,0.7);
+	padding: 10px;
+	margin-top: 50px;
+}
+/* btn-uno-header*/
+.btn-more{
+	height: 50px;
+	width: 180px;
+	margin-left: 10%;
+	background: rgba(0,0,0,0.2);
+	padding: 10px;
+	margin-top: 50px;
+}
+#tamano-letras-btn{
+	font-size: 12px;
+}
+
+.espacio-uno-introduccion{
+	margin-top: 20px;
+	margin-left: 15%;
+}
+.section_Dos{
+	margin-bottom: 30px;
+}
+
+.enfoque-iconos{
+	margin-top: 50px;
+	margin-bottom: 50px;
+
+}
+
+/* section-More-Fonts*/
+.more-fonts{
+	background-color:#D8D8D8;
+	width: 100%;
+	height: 570px;
+	margin-bottom: 40px;
+}
+.tamano-img-more{
+	height: 400px;
+	width: 70%;
+	margin-left: 10%;
+	position: center center
+}
+.cararct-titulo-more{
+	font-size: 50px;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+.tamano-icono{
+	height: 50px;
+	width: 50px;
+}
+.tamano-lap-fonts{
+	height: 500px;
+	width: 90%;
+}
+/* section-More-Fonts 2*/
+.fondo_Tres .col-5{
+	margin-top: 40px;
+	margin-bottom: 20px;
+
+}
+
+.lugar-icono{
+	padding-top: 30px;
+}
+#tamano-p{
+	font-size: 17px;
+}
+/* section-portafolios*/
+#btn-design{
+	font-style: 10px;
+
+}
+.section-portafolio{
+	background-color:#D8D8D8;
+	margin-top: 20px;
+	padding-top: 40px;
+	padding-bottom: 20px;
+}
+.section-portafolio .col-6{
+	margin-top: 40px;
+	margin-bottom: 20px;
+}
+.section-portafolio h4{
+	color: #888;
+}
+.propiedad-inline{
+	display: inline-block;
+}
+.movimiento-letras{
+	padding-top: 15px;
+}
+.espacio-titulo{
+	font-size: 40px;
+}
+.tamanano-cajas-portafolio{
+	width: 120px;
+	height: 50px;
+	background-color: white;
+	margin: 15px 2px 10px 2px;
+}
+.font-size{
+	font-size: 18px;
+
+}
+.caja-especial-portafolio{
+	background-color: #0dc0c0 ;
+	width: 100px;
+	height: 50px;
+}
+.marco{
+	width: 100%;
+	height: 340px;
+	background-color: #0dc0c0 ;
+	padding: 15px;
+}
+/* btn/more/section/portafolios/#0dc0c0=azul */
+.btn-More{
+	height: 40px;
+	width: 120px;
+	margin-left: 45%;
+	background-color: #040A24;
+	color: #888;
+	padding-top: 10px;
+}
+.letra-btn{
+	font-size: 20px;
+}
+/* clases-Utiles*/
+.text-center{
+	text-align: center;
+}
+.text-left{
+	text-align: left;
+}.text-gray{
+	color: #888;
+
+
+}
